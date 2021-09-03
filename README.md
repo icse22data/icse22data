@@ -1,7 +1,10 @@
 # ICSE Submission #2645
 
 ## Data Analysis
-The Jupyter notebook generate all tables and figures.
+The Jupyter notebook generating all tables and figures can be found at https://github.com/icse21data/icse21data/tree/main/fuzzbench.ipynb
+
+## Generated Images and Tables
+The generated data analysis artifacts can be found at https://github.com/icse21data/icse21data/tree/main/generated
 
 ## Data
 All the data is available in the FuzzBench Reports and will be automatically downloaded.
