@@ -1,5 +1,8 @@
 # ICSE Submission #2645
 
+## Data Analysis
+The Jupyter notebook generate all tables and figures.
+
 ## Data
 All the data is available in the FuzzBench Reports and will be automatically downloaded.
  * 20 trials of 23 hours with 15 programs and 10 fuzzers.
@@ -17,9 +20,6 @@ All the data is available in the FuzzBench Reports and will be automatically dow
    * Report: https://www.fuzzbench.com/reports/2021-08-19-crash-s2/index.html and 
    * Data: https://www.fuzzbench.com/reports/2021-08-19-crash-s2/data.csv.gz
    * Fuzzbench Commit: db192b60815ac87f69ee0f7f3e37aeac71949e1b
-
-## Data Analysis
-The Jupyter notebook generate all tables and figures.
 
 ## Reproducibility
 
