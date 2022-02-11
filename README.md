@@ -1,5 +1,17 @@
 # ICSE Submission #2645
 
+## Cite
+```bibtex
+@inproceedings{benchmarking,
+ author = {B{\"o}hme, Marcel and Szekeres, L{\'a}szl{\'o} and Metzman, Jonathan},
+ title = {On the Reliability of Coverage-based Fuzzer Benchmarking},
+ year = {2022},
+ booktitle = {Proceedings of the 44th International Conference on Software Engineering},
+ series = {ICSE '22},
+ pages = {1-13},
+}
+```
+
 ## Data Analysis
 The Jupyter notebook generating all tables and figures can be found at https://github.com/icse21data/icse21data/tree/main/fuzzbench.ipynb
 
