@@ -38,7 +38,7 @@ All the data is available in the FuzzBench Reports and will be automatically dow
 
 ## Reproducibility
 
-```
+```bash
 # Download the precise version of FuzzBench used for the experiment
 git clone https://github.com/google/fuzzbench.git
 cd fuzzbench
